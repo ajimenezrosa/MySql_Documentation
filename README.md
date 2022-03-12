@@ -1,7 +1,14 @@
 # MySql_Documentation
 
 
+
+
+#
+![](https://disenowebakus.net/imagenes/articulos/mysql.jpg)
+
+
 # MySQL Server – Ajustar la autenticación y los privilegios del usuario
+![](https://norvicsoftware.com/wp-content/uploads/2022/02/seguridad-de-una-base-de-datos-mysql.png)
 #### Para las instalaciones recientes, querrá ejecutar el script de seguridad que viene incluido. Esto cambia algunas de las opciones predeterminadas menos seguras para cosas como inicios de sesión root remotos y usuarios de ejemplo. Para las versiones antiguas de MySQL, también deberá inicializar el directorio de datos manualmente, pero ahora esto se hace automáticamente.
 
 
